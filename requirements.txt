@@ -1,0 +1,22 @@
+# Core LLM + Agent Framework
+crewai>=0.28.0
+openai>=1.3.5
+python-dotenv>=1.0.0
+
+# Google Calendar API
+google-api-python-client>=2.95.0
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.2.0
+
+# Voice and Reminders
+pyttsx3>=2.90
+gtts>=2.3.2
+apscheduler>=3.10.4
+
+# Database
+sqlite-utils>=3.36.0
+
+# General Utilities
+requests>=2.31.0
+pytz>=2023.3
